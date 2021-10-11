@@ -55,15 +55,22 @@ header{
 	background-color: yellow;
 }
 
-.unordered{
+.unorder{
   padding: 15px;
 
 }
 /* tabella */
+
+table{
+  border-spacing: 0;
+
+}
 thead{
 	background-color:cornflowerblue;
 }
-
+th,td{
+  width: 33%;
+}
 th{
 	color: white;
 	font-size: xx-small;
@@ -84,11 +91,10 @@ tbody{
 
 /* footer */
 
-footer{
-	width: 600px;
-}
+
 #titfooter{
 	color: grey;
+  margin-bottom: 15px;
 }
 
 #finaldiv{
@@ -97,8 +103,17 @@ footer{
 
 #imac{
 	background-image: url(../img/monitor.jpg);
+  width: 310px;
+  height: 250px;
 }
 
-#map{
-	background-image: url(../img/graph.jpg);
+#graph{
+  background-image: url(../img/graph.jpg);
+  width: 310px;
+  height: 250px;
+}
+
+.titolofooter{
+  color: white;
+  margin: 15px;
 }
