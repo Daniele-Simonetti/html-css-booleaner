@@ -17,6 +17,10 @@ header{
 
 /* titolo e foto */
 
+.blue{
+	color: turquoise;
+}
+
 #info-nav{
 	margin: 0%;
 	margin-top: 25px;
@@ -37,13 +41,15 @@ header{
 .descphoto{
 	font-size: 1px;
 }
-/* titolo e foto */
+/* /titolo e foto */
 
 /* sezione due */
 #second-sec{
 	font-size: x-small;
 }
-
+.evidenced{
+	background-color: yellow;
+}
 /* tabella */
 thead{
 	background-color:cornflowerblue;
@@ -55,4 +61,8 @@ th{
 }
 tbody{
 	font-size: xx-small;
+}
+
+.lightblue{
+	background-color: turquoise;
 }
