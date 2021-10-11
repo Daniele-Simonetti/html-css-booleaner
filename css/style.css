@@ -1,6 +1,4 @@
-body{
-	width: 1200px;
-}
+
 /* intestazione */
 header{
 	height: 115px;
@@ -56,6 +54,11 @@ header{
 .evidenced{
 	background-color: yellow;
 }
+
+.unordered{
+  padding: 15px;
+
+}
 /* tabella */
 thead{
 	background-color:cornflowerblue;
@@ -82,7 +85,7 @@ tbody{
 /* footer */
 
 footer{
-	height: 600px;
+	width: 600px;
 }
 #titfooter{
 	color: grey;
@@ -94,5 +97,8 @@ footer{
 
 #imac{
 	background-image: url(../img/monitor.jpg);
-	background-size: 15%;
+}
+
+#map{
+	background-image: url(../img/graph.jpg);
 }
