@@ -43,6 +43,12 @@ header{
 }
 /* /titolo e foto */
 
+/* sezione uno */
+#coda-nav{
+	color: grey;
+}
+/* fine sezione uno */
+
 /* sezione due */
 #second-sec{
 	font-size: x-small;
@@ -67,7 +73,26 @@ tbody{
 	background-color: turquoise;
 }
 
-/* quarte sezione */
+/* quarta sezione */
 .end-sec{
 	font-size: xx-small;
+}
+/* fine quarta sezione */
+
+/* footer */
+
+footer{
+	height: 600px;
+}
+#titfooter{
+	color: grey;
+}
+
+#finaldiv{
+	color: white;
+}
+
+#imac{
+	background-image: url(../img/monitor.jpg);
+	background-size: 15%;
 }
