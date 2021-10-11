@@ -43,3 +43,16 @@ header{
 #second-sec{
 	font-size: x-small;
 }
+
+/* tabella */
+thead{
+	background-color:cornflowerblue;
+}
+
+th{
+	color: white;
+	font-size: xx-small;
+}
+tbody{
+	font-size: xx-small;
+}
