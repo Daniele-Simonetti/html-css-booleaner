@@ -15,11 +15,23 @@ header{
 }
 /* /intestazione */
 
-#coda-nav{
-	margin: 0%;
-}
-
 #info-nav{
 	margin: 0%;
 	margin-top: 25px;
+}
+
+#coda-nav{
+	margin: 0%;
+	margin-bottom: 25px;
+}
+
+#tim1{
+	width: 53%;
+}
+#tim2{
+	width: 45%;
+}
+
+.descphoto{
+	font-size: 1px;
 }
