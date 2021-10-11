@@ -1,0 +1,14 @@
+body{
+	width: 1000px;
+}
+header{
+	height: 115px;
+	background-image:url(../img/pattern.png);
+	background-size: 33%;
+	background-color: cornflowerblue;
+}
+
+#logo-img{
+	width: 300px;
+	margin-top: 35px;
+}
